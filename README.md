@@ -14,8 +14,9 @@ Este repositório contém os projetos e exercícios desenvolvidos ao longo da di
   - [📅 Aulas](#-aulas)
     - [Aula 1 - Introdução ao Kotlin](#aula-1---introdução-ao-kotlin)
       - [Exercício 001](#exercício-001)
-    - [Aula 2 - Exercícios](#aula-2---exercícios)
+    - [Aula 2 - Funções](#aula-2---funções)
       - [Apresente-se](#apresente-se)
+      - [Apresente-se](#apresente-se-1)
 
 
 ## 📚 Conteúdo
@@ -30,6 +31,9 @@ Este repositório contém os projetos e exercícios desenvolvidos ao longo da di
 #### Exercício 001
 [Exercício 001](aula1/HelloWorld.kt)
 
-### Aula 2 - Exercícios
+### Aula 2 - Funções
 #### Apresente-se
-[Apresente-se](aula2/HelloWorld.kt)
+[Apresente-se](aula2/002.kt)
+
+#### Apresente-se
+[Apresente-se](aula2/002.kt)
