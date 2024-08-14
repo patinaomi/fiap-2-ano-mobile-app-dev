@@ -1,16 +1,14 @@
 // Ex 002: Crie uma função que calcule a soma dos quadrados de dois números
+fun somaQuadrados(numA: Int, numB: Int) : Int { // Esse int do final é o tipo do retorno
+    val quadA = numA * numA
+    val quadB = numB * numB
+    val result = quadA + quadB
+
+    // return numA * numA + numB * numB Dá pra fazer mais diretão
+    return result
+}
 
 fun main() {
-
-    fun somaQuadrados(numA: Int, numB: Int) : Int { // Esse int do final é o tipo do retorno
-        val quadA = numA * numA 
-        val quadB = numB * numB 
-        val result = quadA + quadB
-    
-        // return numA * numA + numB * numB Dá pra fazer mais diretão
-        return result
-    }
-    
     val a = 2
     val b = 3
     val result = somaQuadrados(a, b)    
@@ -23,5 +21,4 @@ fun main() {
     val numB = readLine()!!.toInt()
 
     val resultado = somaQuadrados(numA, numB)
-
 }
