@@ -6,5 +6,5 @@ fun main() {
     var inicial = 'P'
 
     //Impressão das informações usando interpolação de strings
-    println("Minha inicial é $inicial, tenho $idade anos e minha altura é %.2f".format(altura))
+    println("Minha inicial é $inicial, tenho $idade anos e minha altura é %.2f.".format(altura))
 }
