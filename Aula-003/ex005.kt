@@ -1,4 +1,4 @@
-// Crie um programa que faça a conve4rsão de temperatura
+// Crie um programa que faça a conversão de temperatura
 // Considere que: Celsius = 25.0C
 // Fahrenheit = Celsius * 9/5 + 32
 // Kelvin é Celsius + 273.15

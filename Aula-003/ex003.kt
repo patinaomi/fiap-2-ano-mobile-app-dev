@@ -7,5 +7,8 @@ fun mediaAluno(numA : Float, numB : Float, numC : Float) : Float {
 
 fun main() {
     var res = mediaAluno(6.6f, 7.8f, 8.9f)
-    println("A média do aluno é $res")
+    println("A média do aluno é %.2f".format(res))
+
+    // Por curiosidade, daria pra usar o format e colocar vários interpoladores
+    //println("As notas são: %.2f, %.2f, %.2f e a média do aluno é %.2f".format(nota1, nota2, nota3, media))
 }
