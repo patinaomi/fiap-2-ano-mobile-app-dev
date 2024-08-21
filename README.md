@@ -19,6 +19,8 @@ Este repositório contém os projetos e exercícios desenvolvidos ao longo da di
     - [Aula 2 - Funções](#aula-2---funções)
     - [Aula 3 - Variáveis](#aula-3---variáveis)
     - [Aula 4 - Arrays](#aula-4---arrays)
+    - [Aula 5 - Condicionais](#aula-5---condicionais)
+    - [Aula 6 - For e While](#aula-6---for-e-while)
 
 
 ## 📚 Conteúdo
@@ -31,56 +33,57 @@ Este repositório contém os projetos e exercícios desenvolvidos ao longo da di
 
 ### Aula 0 - Aula Inaugural
 ### Aula 1 - Introdução ao Kotlin
-Hello World  
-[Exercício](Aula-001/HelloWorld.kt)
+[Ex.](Aula-001/HelloWorld.kt) - Hello World
 
 ### Aula 2 - Funções
-Apresente-se  
-[Exercício 001](Aula-002/ex001.kt)
+[Ex. 001](Aula-002/ex001.kt) - Apresente-se
 
-Crie uma função que calcule a soma dos quadrados de dois números  
-[Exercício 002](Aula-002/ex002.kt)
+[Ex. 002](Aula-002/ex002.kt) - Crie uma função que calcule a soma dos quadrados de dois números
 
 ### Aula 3 - Variáveis
-Crie um programa para Calculadora de Média escolar, considere 3 notas  
-[Exercício 003](Aula-003/ex003.kt)
+[Ex. 003](Aula-003/ex003.kt) - Crie um programa para Calculadora de Média escolar, considere 3 notas
 
-Exercício anterior feito com entrada de dados  
-[Exercício 004](Aula-003/ex004.kt)
+[Ex. 004](Aula-003/ex004.kt) - Exercício anterior feito com entrada de dados
 
-Crie um programa que faça a conversão de temperatura  
-[Exercício 005](Aula-003/ex005.kt)
+[Ex. 005](Aula-003/ex005.kt) - Crie um programa que faça a conversão de temperatura
 
-Aplicando os conceitos aprendidos sobre variáveis em Kotlin para criar um programa simples  
-[Exercício 006](Aula-003/ex006.kt)
+[Ex. 006](Aula-003/ex006.kt) - Aplicando os conceitos aprendidos sobre variáveis em Kotlin para criar um programa simples  
+
 
 ### Aula 4 - Arrays
 
-Declaração de um Array
-[Exercício 007](Aula-004/ex007.kt)
+[Ex. 007](Aula-004/ex007.kt) - Declaração de um Array
 
-Trabalhando com Array (Vetores, Matrizes, Coleções, Listas)
-[Exercício 008](Aula-004/ex008.kt)
+[Ex. 008](Aula-004/ex008.kt) - Trabalhando com Array (Vetores, Matrizes, Coleções, Listas)
 
-Crie um programa que explore a funcionalidade de arrays em Kotlin, realizando somas entre arrays de números pares e ímpares
-[Exercício 009](Aula-004/ex009.kt)
+[Ex. 009](Aula-004/ex009.kt) - Crie um programa que explore a funcionalidade de arrays em Kotlin, realizando somas entre arrays de números pares e ímpares
 
-Soma dos elementos de um Array
-[Exercício 010](Aula-004/ex010.kt)
+[Ex. 010](Aula-004/ex010.kt) - Soma dos elementos de um Array
 
-Maior e menor elemento de um Array
-[Exercício 011](Aula-004/ex011.kt)
+[Ex. 011](Aula-004/ex011.kt) - Maior e menor elemento de um Array
 
-Busca de Elementos dentro de um Array
-[Exercício 012](Aula-004/ex012.kt)
+[Ex. 012](Aula-004/ex012.kt) - Busca de Elementos dentro de um Array
 
-Inversão de um Array
-[Exercício 013](Aula-004/ex013.kt)
+[Ex. 013](Aula-004/ex013.kt) - Inversão de um Array
 
-Criando uma lista mutável de números inteiros vazia
-[Exercício 014](Aula-004/ex014.kt)
+[Ex. 014](Aula-004/ex014.kt) - Criando uma lista mutável de números inteiros vazia
 
-### Aula 5 - Título
 
-Título
-[Exercício 015](Aula-005/ex015.kt)  
+### Aula 5 - Condicionais
+
+[Ex. 015](Aula-005/ex015.kt) - Verificar se é Maior ou menor de idade
+
+[Ex. 016](Aula-005/ex016.kt) - Programa de classificação numérica
+
+[Ex. 017](Aula-005/ex017.kt) - Faça um programa que verifica se o programa é par ou ímpar
+
+[Ex. 018](Aula-005/ex018.kt) - Crie um programa que verifica se o usuário tem acesso ao sistema ou não
+
+[Ex. 019](Aula-005/ex019.kt) - Criar um programa que verifica se o usuário possui ou não carteira de habilitação
+
+[Ex. 020](Aula-005/ex020.kt) - Carro x Salario
+
+[Ex. 021](Aula-005/ex021.kt) - Verificar se é Maior ou menor de idade
+
+### Aula 6 - For e While
+[Ex. 022](Aula-006/ex022.kt) - Verificar se é Maior ou menor de idade
