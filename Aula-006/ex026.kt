@@ -1,4 +1,4 @@
-// Verificar se é Maior ou menor de idade com entrada de dados do usuário
+// Verificar se é Número Primo com entrada de dados do usuário
 
 fun main() {
     print("Digite um número: ")

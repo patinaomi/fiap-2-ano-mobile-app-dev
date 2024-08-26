@@ -94,7 +94,7 @@ Este repositório contém os projetos e exercícios desenvolvidos ao longo da di
 
 [Ex. 022](Aula-006/ex025.kt) - Verificando se o número é primo ou não
 
-[Ex. 022](Aula-006/ex026.kt) - Verificar se é Maior ou menor de idade com entrada de dados do usuário
+[Ex. 022](Aula-006/ex026.kt) - Verificar se é número primo ou não entrada de dados do usuário
 
 [Ex. 022](Aula-006/ex027.kt) - Verificar se é Maior ou menor de idade
 
