@@ -86,4 +86,18 @@ Este repositório contém os projetos e exercícios desenvolvidos ao longo da di
 [Ex. 021](Aula-005/ex021.kt) - Verificar se é Maior ou menor de idade
 
 ### Aula 6 - For e While
+[Ex. 022](Aula-006/ex022.kt) - Imprimir número de 1 a 10
+
+[Ex. 022](Aula-006/ex023.kt) - Imprimindo múltiplos de 0 a 50
+
+[Ex. 022](Aula-006/ex024.kt) - Calcular números naturais
+
+[Ex. 022](Aula-006/ex025.kt) - Verificando se o número é primo ou não
+
+[Ex. 022](Aula-006/ex026.kt) - Verificar se é Maior ou menor de idade com entrada de dados do usuário
+
+[Ex. 022](Aula-006/ex027.kt) - Verificar se é Maior ou menor de idade
+
+[Ex. 022](Aula-006/ex028.kt) - Verificar se é Maior ou menor de idade
+
 [Ex. 022](Aula-006/ex022.kt) - Verificar se é Maior ou menor de idade
