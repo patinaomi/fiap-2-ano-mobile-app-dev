@@ -21,6 +21,7 @@ Este repositório contém os projetos e exercícios desenvolvidos ao longo da di
     - [Aula 4 - Arrays](#aula-4---arrays)
     - [Aula 5 - Condicionais](#aula-5---condicionais)
     - [Aula 6 - For e While](#aula-6---for-e-while)
+    - [Aula 7 - Android Studio](#aula-7---android-studio)
 
 
 ## 📚 Conteúdo
@@ -88,16 +89,20 @@ Este repositório contém os projetos e exercícios desenvolvidos ao longo da di
 ### Aula 6 - For e While
 [Ex. 022](Aula-006/ex022.kt) - Imprimir número de 1 a 10
 
-[Ex. 022](Aula-006/ex023.kt) - Imprimindo múltiplos de 0 a 50
+[Ex. 023](Aula-006/ex023.kt) - Imprimindo múltiplos de 0 a 50
 
-[Ex. 022](Aula-006/ex024.kt) - Calcular números naturais
+[Ex. 024](Aula-006/ex024.kt) - Calcular números naturais
 
-[Ex. 022](Aula-006/ex025.kt) - Verificando se o número é primo ou não
+[Ex. 025](Aula-006/ex025.kt) - Verificando se o número é primo ou não
 
-[Ex. 022](Aula-006/ex026.kt) - Verificar se é número primo ou não entrada de dados do usuário
+[Ex. 026](Aula-006/ex026.kt) - Verificar se é número primo ou não entrada de dados do usuário
 
-[Ex. 022](Aula-006/ex027.kt) - Verificar se é Maior ou menor de idade
+[Ex. 027](Aula-006/ex027.kt) - Exercício para imprimir caracter separadamente
 
-[Ex. 022](Aula-006/ex028.kt) - Verificar se é Maior ou menor de idade
+[Ex. 028](Aula-006/ex028.kt) - Calcular a soma dos números pares em uma lista de números.
 
-[Ex. 022](Aula-006/ex022.kt) - Verificar se é Maior ou menor de idade
+[Ex. 029](Aula-006/ex029.kt) - Contagem Regressiva usando While
+
+[Ex. 030](Aula-006/ex030.kt) - Criar um programa que solicita um número inteiro positivo e calcula a soma de todos os múltiplos de 3 que sejam menores que o número digitado.
+
+### Aula 7 - Android Studio
