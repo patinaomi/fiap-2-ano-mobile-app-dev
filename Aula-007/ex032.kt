@@ -28,25 +28,26 @@ fun main() {
     }
 
     fun categoriaImc(imc: Float) {
-        when {
-            (imc < 16.9) -> println("Muito abaixo do Peso")
-            (imc <= 18.4) -> println("Abaixo do Peso")
-            (imc <= 24.9) -> println("Peso Normal")
-            (imc <= 29.9) -> println("Acima do Peso")
-            (imc <= 34.9) -> println("Obesidade Grau I")
-            (imc <= 40) -> println("Obesidade Grau II")
-            (imc > 40) -> println("Obesidade Grau III")
+        var result = when {
+            (imc < 16.9) -> "Muito abaixo do Peso"
+            (imc <= 18.4) -> "Abaixo do Peso"
+            (imc <= 24.9) -> "Peso Normal"
+            (imc <= 29.9) -> "Acima do Peso"
+            (imc <= 34.9) -> "Obesidade Grau I"
+            (imc <= 40) -> "Obesidade Grau II"
+            (imc > 40) -> "Obesidade Grau III"
 
-            else -> {
-                println("Valor inválido")
-            }
+            else -> "Valor inválido"
         }
+        println(result)
     }
 
         do {
             coletarDados()
             var imc = calcularImc(peso, altura)
             println("IMC: $imc")
+
+
             categoriaImc(imc)
 
             print("Tecle [c] para continuar ou [s] para sair: ")
