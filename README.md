@@ -21,7 +21,7 @@ Este repositório contém os projetos e exercícios desenvolvidos ao longo da di
     - [Aula 4 - Arrays](#aula-4---arrays)
     - [Aula 5 - Condicionais](#aula-5---condicionais)
     - [Aula 6 - For e While](#aula-6---for-e-while)
-    - [Aula 7 - Android Studio](#aula-7---android-studio)
+    - [Aula 7 - Desafio CP1](#aula-7---desafio-cp1)
 
 
 ## 📚 Conteúdo
@@ -105,4 +105,9 @@ Este repositório contém os projetos e exercícios desenvolvidos ao longo da di
 
 [Ex. 030](Aula-006/ex030.kt) - Criar um programa que solicita um número inteiro positivo e calcula a soma de todos os múltiplos de 3 que sejam menores que o número digitado.
 
-### Aula 7 - Android Studio
+### Aula 7 - Desafio CP1
+
+[Ex. 031](Aula-007/ex031.kt) - Desafio Lanchonete
+
+[Ex. 031](Aula-007/ex032.kt) - Desafio IMC
+
