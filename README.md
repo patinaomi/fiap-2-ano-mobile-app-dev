@@ -123,7 +123,9 @@ Este repositório contém os projetos e exercícios desenvolvidos ao longo da di
 
 ### Aula 9 - Introdução ao Android Studio
 
-[HewlloWorld](HelloWorld) - Exemplo de Criação de um Projeto
+[HelloWorld](HelloWorld) - Exemplo de Criação de um Projeto
+
+[Palindromo](Palindromo) - Exercício Palíndromo
 
 ### Aula 10 - Criando uma Aplicação
 
