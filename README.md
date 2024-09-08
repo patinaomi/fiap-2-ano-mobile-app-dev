@@ -22,6 +22,10 @@ Este repositório contém os projetos e exercícios desenvolvidos ao longo da di
     - [Aula 5 - Condicionais](#aula-5---condicionais)
     - [Aula 6 - For e While](#aula-6---for-e-while)
     - [Aula 7 - Desafio CP1](#aula-7---desafio-cp1)
+    - [Aula 8 - POO em Kotlin](#aula-8---poo-em-kotlin)
+    - [Aula 9 - Introdução ao Android Studio](#aula-9---introdução-ao-android-studio)
+    - [Aula 10 - Criando uma aplicação](#aula-10---criando-uma-aplicação)
+    - [Aula 11 - CP1](#aula-11---cp1)
 
 
 ## 📚 Conteúdo
@@ -109,5 +113,19 @@ Este repositório contém os projetos e exercícios desenvolvidos ao longo da di
 
 [Ex. 031](Aula-007/ex031.kt) - Desafio Lanchonete
 
-[Ex. 031](Aula-007/ex032.kt) - Desafio IMC
+[Ex. 032](Aula-007/ex032.kt) - Desafio IMC
+
+[Ex. 033](Aula-007/ex033.kt) - Revisão Coleções
+
+### Aula 8 - POO em Kotlin
+
+[Ex. 034](Aula-008/ex034.kt) - Classes em Kotlin
+
+### Aula 9 - Introdução ao Android Studio
+
+[HewlloWorld](HelloWorld) - Exemplo de Criação de um Projeto
+
+### Aula 10 - Criando uma Aplicação
+
+### Aula 11 - CP1
 
